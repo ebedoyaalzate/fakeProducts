@@ -1,0 +1,77 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "iphone X",
+            "price": 4000000,
+            "brand": " ",
+            "thumbanail": "http://mco-s2-p.mlstatic.com/680694-MCO31615008367_072019-I.jpg",
+            "images": [
+                { "URL": "https://http2.mlstatic.com/celular-iphone-32gb-D_NQ_NP_680694-MCO31615008367_072019-O.webp" },
+                { "URL": "https://http2.mlstatic.com/celular-iphone-32gb-D_NQ_NP_680694-MCO31615008367_072019-O.webp" }
+            ],
+            "category": {
+                "category-id": 1,
+                "category-name": "Celular"
+            },
+            "rating": 0,
+            "description": "iPhone x, Pantalla: 4.7 HD Retina, Cámara: 12 Mpx - Frontal 7 Mpx, Sistema Operativo: iOS 10, Memoria Interna: 32 GB",
+            "sold_units": 0,
+            "seller": {
+                "seller_id": 1,
+                "seller_name": "exito",
+                "seller_rating": 0
+            },
+            "related_items": [{ "res": "https://my-json-server.typicode.com/ebedoyaalzate/fakeServe/db" }]
+        },
+        {
+            "id": 2,
+            "name": "Computador MSI",
+            "price": 4600000,
+            "brand": " ",
+            "thumbanail": "http://mco-s1-p.mlstatic.com/687261-MCO31561382888_072019-I.jpg",
+            "images": [
+                { "URL": "https://http2.mlstatic.com/computador-portatil-gf75-thin-8rc-i7-msi-morral-mouse-gratis-D_NQ_NP_687261-MCO31561382888_072019-O.webp" },
+                { "URL": "https://http2.mlstatic.com/computador-portatil-gf75-thin-8rc-i7-msi-morral-mouse-gratis-D_NQ_NP_687261-MCO31561382888_072019-O.webp" },
+                { "URL": "https://http2.mlstatic.com/computador-portatil-gf75-thin-8rc-i7-msi-morral-mouse-gratis-D_NQ_NP_619318-MCO31561403031_072019-F.webp" }
+            ],
+            "category": {
+                "category-id": 2,
+                "category-name": "Portatil"
+            },
+            "rating": 0,
+            "description": "MSI ,Tapa metálica y cubierta del teclado combinadas con un diseño futurista que está listo para la batalla. Disfrute de un espacio completo de pantalla de 17 en un chasis compacto. Encienda con un 40% de ganancias de rendimiento sobre la Generación anterior con los núcleos extra.",
+            "sold_units": 0,
+            "seller": {
+                "seller_id": 2,
+                "seller_name": "Gamers Colombia",
+                "seller_rating": 0
+            },
+            "related_items": [{ "res": "https://my-json-server.typicode.com/ebedoyaalzate/fakeServe/db" }]
+        },
+        {
+            "id": 3,
+            "name": "Mouse Redragon",
+            "price": 79000,
+            "brand": " ",
+            "thumbanail": "http://mco-s1-p.mlstatic.com/715815-MCO31180711064_062019-I.jpg",
+            "images": [
+                { "URL": "https://http2.mlstatic.com/mouse-gamer-redragon-m710-nemealion-D_NQ_NP_715815-MCO31180711064_062019-O.webp" },
+                { "URL": "https://http2.mlstatic.com/mouse-gamer-redragon-m710-nemealion-D_NQ_NP_851984-MCO31180712045_062019-O.webp" },
+                { "URL": "https://http2.mlstatic.com/mouse-gamer-redragon-m710-nemealion-D_NQ_NP_675348-MCO31180657943_062019-O.webp" }
+            ],
+            "category": {
+                "category-id": 3,
+                "category-name": "Mouse"
+            },
+            "rating": 0,
+            "description": "El ratón para juegos Redragon M710 MEMEANLION CHROMA no es el típico mouse para juegos. El mouse está diseñado para jugadores que demandan el mejor rendimiento. ",
+            "sold_units": 0,
+            "seller": {
+                "seller_id": 3,
+                "seller_name": "Falabella",
+                "seller_rating": 0
+            },
+            "related_items": [{ "res": "https://my-json-server.typicode.com/ebedoyaalzate/fakeServe/db" }]
+        }
+    ]
+}
