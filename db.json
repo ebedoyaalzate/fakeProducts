@@ -4,14 +4,14 @@
             "name": "iphone X",
             "price": 4000000,
             "brand": " ",
-            "thumbanail": "http://mco-s2-p.mlstatic.com/680694-MCO31615008367_072019-I.jpg",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/680694-MCO31615008367_072019-I.jpg",
             "images": [
                 { "URL": "https://http2.mlstatic.com/celular-iphone-32gb-D_NQ_NP_680694-MCO31615008367_072019-O.webp" },
                 { "URL": "https://http2.mlstatic.com/celular-iphone-32gb-D_NQ_NP_680694-MCO31615008367_072019-O.webp" }
             ],
             "category": {
-                "category-id": 1,
-                "category-name": "Celular"
+                "category_id": 1,
+                "category_name": "Celular"
             },
             "rating": 0,
             "description": "iPhone x, Pantalla: 4.7 HD Retina, Cámara: 12 Mpx - Frontal 7 Mpx, Sistema Operativo: iOS 10, Memoria Interna: 32 GB",
