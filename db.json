@@ -28,15 +28,15 @@
             "name": "Computador MSI",
             "price": 4600000,
             "brand": " ",
-            "thumbanail": "http://mco-s1-p.mlstatic.com/687261-MCO31561382888_072019-I.jpg",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/687261-MCO31561382888_072019-I.jpg",
             "images": [
                 { "URL": "https://http2.mlstatic.com/computador-portatil-gf75-thin-8rc-i7-msi-morral-mouse-gratis-D_NQ_NP_687261-MCO31561382888_072019-O.webp" },
                 { "URL": "https://http2.mlstatic.com/computador-portatil-gf75-thin-8rc-i7-msi-morral-mouse-gratis-D_NQ_NP_687261-MCO31561382888_072019-O.webp" },
                 { "URL": "https://http2.mlstatic.com/computador-portatil-gf75-thin-8rc-i7-msi-morral-mouse-gratis-D_NQ_NP_619318-MCO31561403031_072019-F.webp" }
             ],
             "category": {
-                "category-id": 2,
-                "category-name": "Portatil"
+                "category_id": 2,
+                "category_name": "Portatil"
             },
             "rating": 0,
             "description": "MSI ,Tapa metálica y cubierta del teclado combinadas con un diseño futurista que está listo para la batalla. Disfrute de un espacio completo de pantalla de 17 en un chasis compacto. Encienda con un 40% de ganancias de rendimiento sobre la Generación anterior con los núcleos extra.",
@@ -53,15 +53,15 @@
             "name": "Mouse Redragon",
             "price": 79000,
             "brand": " ",
-            "thumbanail": "http://mco-s1-p.mlstatic.com/715815-MCO31180711064_062019-I.jpg",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/715815-MCO31180711064_062019-I.jpg",
             "images": [
                 { "URL": "https://http2.mlstatic.com/mouse-gamer-redragon-m710-nemealion-D_NQ_NP_715815-MCO31180711064_062019-O.webp" },
                 { "URL": "https://http2.mlstatic.com/mouse-gamer-redragon-m710-nemealion-D_NQ_NP_851984-MCO31180712045_062019-O.webp" },
                 { "URL": "https://http2.mlstatic.com/mouse-gamer-redragon-m710-nemealion-D_NQ_NP_675348-MCO31180657943_062019-O.webp" }
             ],
             "category": {
-                "category-id": 3,
-                "category-name": "Mouse"
+                "category_id": 3,
+                "category_name": "Mouse"
             },
             "rating": 0,
             "description": "El ratón para juegos Redragon M710 MEMEANLION CHROMA no es el típico mouse para juegos. El mouse está diseñado para jugadores que demandan el mejor rendimiento. ",
